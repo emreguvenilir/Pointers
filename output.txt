@@ -1,0 +1,217 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw8-input.txt == @@@@@@@@@@@@@@@
+
+
+Welcome to the Love Triangle Game! Ready for some heartbreak? I am.
+
+How big is your city?:      0     1     2     3     4
+0 |    ,    ,    ,    ,    |
+1 |    ,    ,    ,    ,    |
+2 |    ,    ,    ,    ,    |
+3 |    ,    ,    ,    ,    |
+4 |    ,    ,    ,    ,    |
+
+
+
+Turn 1
+
+Player Score: 0
+Rival Score: 0
+Enter x: 
+Enter y:      0     1     2     3     4
+0 |    ,    ,    ,    ,    |
+1 |    ,  P  ,    ,    ,    |
+2 |    ,    ,    ,    ,    |
+3 |    ,    ,    ,    ,    |
+4 |    ,  L  ,  R  ,    ,    |
+
+
+
+Player Distance to Love Interest: 3
+Rival Distance to Love Interest: 1
+Rival wins this turn!
+
+Turn 2
+
+Player Score: 3
+Rival Score: 1
+Enter x: 
+Enter y:      0     1     2     3     4
+0 |    ,    ,    ,    ,    |
+1 |    ,    ,  R  ,    ,    |
+2 |    ,    ,  P  ,    ,    |
+3 |    ,  L  ,    ,    ,    |
+4 |    ,    ,    ,    ,    |
+
+
+
+Player Distance to Love Interest: 1.41421
+Rival Distance to Love Interest: 2.23607
+Player wins this turn!
+
+Turn 3
+
+Player Score: 4.41421
+Rival Score: 3.23607
+Enter x: 
+Enter y:      0     1     2     3     4
+0 |    ,    ,    ,    ,    |
+1 |    ,    ,  R  ,    ,    |
+2 |    ,    ,    ,    ,    |
+3 |    ,    ,  L  ,  P  ,    |
+4 |    ,    ,    ,    ,    |
+
+
+
+Player Distance to Love Interest: 1
+Rival Distance to Love Interest: 2
+Player wins this turn!
+
+Turn 4
+
+Player Score: 5.41421
+Rival Score: 5.23607
+Enter x: 
+Enter y:      0     1     2     3     4
+0 |    ,    ,    ,    ,    |
+1 |    ,    ,    ,    ,    |
+2 |    ,  L  ,    ,    ,    |
+3 |    ,    ,    ,    ,    |
+4 |  R  ,    ,    ,    ,  P  |
+
+
+
+Player Distance to Love Interest: 3.60555
+Rival Distance to Love Interest: 2.23607
+Rival wins this turn!
+
+Turn 5
+
+Player Score: 9.01976
+Rival Score: 7.47214
+Enter x: 
+Enter y:      0     1     2     3     4
+0 |    ,    ,    ,    ,    |
+1 |    ,    ,    ,    ,    |
+2 |  R  ,    ,    ,    ,    |
+3 |  L  ,    ,  P  ,    ,    |
+4 |    ,    ,    ,    ,    |
+
+
+
+Player Distance to Love Interest: 2
+Rival Distance to Love Interest: 1
+Rival wins this turn!
+You lost! Hit up Tinder!
+
+Do you want to continue playing (y/n)?: 
+Do you want to start in a new city (y/n)?: 
+How big is the size of the new city?:      0     1     2     3     4     5
+0 |    ,    ,    ,    ,    ,    |
+1 |    ,    ,    ,    ,    ,    |
+2 |    ,    ,    ,    ,    ,    |
+3 |    ,    ,    ,    ,    ,    |
+4 |    ,    ,    ,    ,    ,    |
+5 |    ,    ,    ,    ,    ,    |
+
+
+
+Turn 1
+
+Player Score: 0
+Rival Score: 0
+Enter x: 
+Enter y:      0     1     2     3     4     5
+0 |    ,    ,    ,    ,    ,    |
+1 |    ,    ,    ,    ,    ,    |
+2 |    ,    ,    ,    ,    ,    |
+3 |    ,    ,  P  ,    ,    ,    |
+4 |    ,    ,    ,  R  ,    ,    |
+5 |    ,    ,    ,    ,    ,    |
+
+
+
+Player Distance to Love Interest: 1.41421
+Rival Distance to Love Interest: 0
+Rival wins this turn!
+
+Turn 2
+
+Player Score: 1.41421
+Rival Score: 0
+Enter x: 
+Enter y:      0     1     2     3     4     5
+0 |    ,    ,    ,    ,    ,    |
+1 |    ,    ,    ,    ,    ,    |
+2 |    ,    ,    ,    ,    ,    |
+3 |    ,    ,    ,    ,  L  ,    |
+4 |    ,  P  ,    ,    ,    ,    |
+5 |    ,    ,  R  ,    ,    ,    |
+
+
+
+Player Distance to Love Interest: 3.16228
+Rival Distance to Love Interest: 2.82843
+Rival wins this turn!
+
+Turn 3
+
+Player Score: 4.57649
+Rival Score: 2.82843
+Enter x: 
+Enter y:      0     1     2     3     4     5
+0 |    ,    ,    ,  R  ,    ,    |
+1 |    ,    ,    ,    ,  P  ,    |
+2 |    ,    ,    ,    ,    ,    |
+3 |    ,  L  ,    ,    ,    ,    |
+4 |    ,    ,    ,    ,    ,    |
+5 |    ,    ,    ,    ,    ,    |
+
+
+
+Player Distance to Love Interest: 3.60555
+Rival Distance to Love Interest: 3.60555
+Rival wins this turn!
+
+Turn 4
+
+Player Score: 8.18204
+Rival Score: 6.43398
+Enter x: 
+Enter y:      0     1     2     3     4     5
+0 |    ,    ,    ,    ,    ,    |
+1 |    ,    ,  L  ,    ,    ,    |
+2 |    ,    ,    ,    ,    ,    |
+3 |    ,    ,    ,    ,    ,  R  |
+4 |    ,    ,  P  ,    ,    ,    |
+5 |    ,    ,    ,    ,    ,    |
+
+
+
+Player Distance to Love Interest: 3
+Rival Distance to Love Interest: 3.60555
+Player wins this turn!
+
+Turn 5
+
+Player Score: 11.182
+Rival Score: 10.0395
+Enter x: 
+Enter y:      0     1     2     3     4     5
+0 |    ,    ,    ,    ,    ,    |
+1 |    ,  L  ,    ,    ,    ,  P  |
+2 |    ,    ,    ,    ,    ,    |
+3 |    ,    ,    ,    ,    ,    |
+4 |    ,  R  ,    ,    ,    ,    |
+5 |    ,    ,    ,    ,    ,    |
+
+
+
+Player Distance to Love Interest: 4
+Rival Distance to Love Interest: 3
+Rival wins this turn!
+You lost! Hit up Tinder!
+
+Do you want to continue playing (y/n)?: 
+Player Win Rate: 0
